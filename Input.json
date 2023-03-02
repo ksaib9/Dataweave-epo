@@ -1,0 +1,157 @@
+[{
+        "accfl_recordseq": 1,
+        "accfl_recordtype": "ItemSite",
+        "accfl_recorddet": "202211012022102600000000   000000000^CM7045    0912 CONTRACTORS INSTALL/EQUIP/UNSCHLD EQUIP^^^001000^001^000^IM^IA^CM7045    0912^CONTRACTORS INSTALL/EQUIP/UNSCHLD EQUIP^^^^2^^^",
+        "accfl_recsincoll": 1
+    },
+    {
+        "accfl_recordseq": 2,
+        "accfl_recordtype": "ItemArticle",
+        "accfl_recorddet": "202211012022102600000000   000000001^SCHEDULED ITEMS^REX WHEEL THREADER LE61477M30505^0000000000^0000001400^USD^",
+        "accfl_recsincoll": 33
+    },
+    {
+        "accfl_recordseq": 3,
+        "accfl_recordtype": "ItemArticle",
+        "accfl_recorddet": "202211012022102600000000   000000002^SCHEDULED ITEMS^14 GAUGE SHEARER LE581^0000000000^0000001500^USD^",
+        "accfl_recsincoll": 33
+    },
+    {
+        "accfl_recordseq": 4,
+        "accfl_recordtype": "ItemArticle",
+        "accfl_recorddet": "202211012022102600000000   000000003^SCHEDULED ITEMS^96 HARBART WELDER 13293^0000000000^0000001500^USD^",
+        "accfl_recsincoll": 33
+    },
+    {
+        "accfl_recordseq": 5,
+        "accfl_recordtype": "ItemArticle",
+        "accfl_recorddet": "202211012022102600000000   000000004^SCHEDULED ITEMS^DRAGONAIR PLASMA CUTTER M82728A192103A^0000000000^0000000900^USD^",
+        "accfl_recsincoll": 33
+    },
+    {
+        "accfl_recordseq": 6,
+        "accfl_recordtype": "ItemArticle",
+        "accfl_recorddet": "202211012022102600000000   000000005^SCHEDULED ITEMS^REX WHEELER PIPE THREADER 92680830505^0000000000^0000001450^USD^",
+        "accfl_recsincoll": 33
+    },
+    {
+        "accfl_recordseq": 7,
+        "accfl_recordtype": "ItemArticle",
+        "accfl_recorddet": "202211012022102600000000   000000006^SCHEDULED ITEMS^REX WHEELER PIPE THREADER 761477792680^0000000000^0000001400^USD^",
+        "accfl_recsincoll": 33
+    },
+    {
+        "accfl_recordseq": 8,
+        "accfl_recordtype": "ItemArticle",
+        "accfl_recorddet": "202211012022102600000000   000000007^SCHEDULED ITEMS^PITTSBURGH 24 GAUGELOCK S4255718623616^0000000000^0000002400^USD^",
+        "accfl_recsincoll": 33
+    },
+    {
+        "accfl_recordseq": 9,
+        "accfl_recordtype": "ItemArticle",
+        "accfl_recorddet": "202211012022102600000000   000000008^SCHEDULED ITEMS^2 LOC FORMS 24GAPITTS 23616S4225716^0000000000^0000002400^USD^",
+        "accfl_recsincoll": 33
+    },
+    {
+        "accfl_recordseq": 10,
+        "accfl_recordtype": "ItemArticle",
+        "accfl_recorddet": "202211012022102600000000   000000009^SCHEDULED ITEMS^BOSS 8' SNOW PLOW^0000000000^0000003900^USD^",
+        "accfl_recsincoll": 33
+    },
+    {
+        "accfl_recordseq": 11,
+        "accfl_recordtype": "ItemArticle",
+        "accfl_recorddet": "202211012022102600000000   000000010^SCHEDULED ITEMS^ALNOR STANDARD BALOMETER 70646080^0000000000^0000002165^USD^",
+        "accfl_recsincoll": 33
+    },
+    {
+        "accfl_recordseq": 12,
+        "accfl_recordtype": "ItemArticle",
+        "accfl_recorddet": "202211012022102600000000   000000033^SCHEDULED ITEMS^SKYJACK 3219MC SCISSOR LIFT 22113399^0000000000^0000008000^USD^",
+        "accfl_recsincoll": 33
+    },
+    {
+        "accfl_recordseq": 13,
+        "accfl_recordtype": "Coverages",
+        "accfl_recorddet": "1^^2^USD^2022/11/01^2023/11/01^202211012022102600000000   000000033^^^1^IM^AMT^^INLAND MARINE FORM^^^^0000^0000000000000^C^0000^000^000^14^52404^005000^0000",
+        "accfl_recsincoll": 0
+    },
+    {
+        "accfl_recordseq": 14,
+        "accfl_recordtype": "ItemJobClass",
+        "accfl_recorddet": "553700^HEAT, VENT, AIR CONDITION & REFRIGERATE - INSTALL/SERVICE/REPAIR/SHOP/YARD/DRIVERS",
+        "accfl_recsincoll": 0
+    },
+    {
+        "accfl_recordseq": 15,
+        "accfl_recordtype": "ItemSite",
+        "accfl_recorddet": "202211012022102600010000   000000000^VARIOUS LOCATIONS IN ILLINOIS SPRINGFIELD IL 62701^^^001000^001^000^WC^IL^^^^^^2^^^N",
+        "accfl_recsincoll": 2
+    },
+    {
+        "accfl_recordseq": 16,
+        "accfl_recordtype": "SiteAddress",
+        "accfl_recorddet": "SPRINGFIELD^UNITED STATES^084~SANGAMON^202211012022102600010000   000000000^IL^LOCATIONS IN ILLINOIS^^^62701^BUS^VARIOUS^^",
+        "accfl_recsincoll": 0
+    },
+    {
+        "accfl_recordseq": 17,
+        "accfl_recordtype": "Coverages",
+        "accfl_recorddet": "0^^3^USD^2022/11/01^2023/11/01^202211012022102600010000   000000000^^^1^WC^WC^^WORK COMP^^^^0000^0000000000000^C^0000^000^000^12^62701^553700^0000",
+        "accfl_recsincoll": 0
+    },
+    {
+        "accfl_recordseq": 18,
+        "accfl_recordtype": "Coverages",
+        "accfl_recorddet": "0^^2^USD^2022/11/01^2023/11/01^202211012022102600010000   000000000^^0000500000^1^WC^WCEMP^^BODILY INJURY BY ACCIDENT- EACH ACCIDENT^^^^0000^0000000000000^C^0000^000^000^12^62701^553700^0000",
+        "accfl_recsincoll": 0
+    },
+    {
+        "accfl_recordseq": 19,
+        "accfl_recordtype": "ItemJobClass",
+        "accfl_recorddet": "518300^PLUMBING NOC & DRIVERS",
+        "accfl_recsincoll": 0
+    },
+    {
+        "accfl_recordseq": 20,
+        "accfl_recordtype": "ItemJobClass",
+        "accfl_recorddet": "553700^HEAT, VENT, AIR-CONDITION & REFRIGERATE - INSTALL/SERVICE/REPAIR/SHOP/YARD/DRIVERS",
+        "accfl_recsincoll": 0
+    },
+    {
+        "accfl_recordseq": 21,
+        "accfl_recordtype": "ItemJobClass",
+        "accfl_recorddet": "560600^CONTRACTOR-PROJECT MANAGER, CONSTRUCTION EXECUTIVE/MANAGER/SUPERINTENDENT",
+        "accfl_recsincoll": 0
+    },
+    {
+        "accfl_recordseq": 22,
+        "accfl_recordtype": "ItemJobClass",
+        "accfl_recorddet": "881000^CLERICAL OFFICE EMPLOYEES NOC",
+        "accfl_recsincoll": 0
+    },
+    {
+        "accfl_recordseq": 23,
+        "accfl_recordtype": "ItemSite",
+        "accfl_recorddet": "202211012022102600010000   000000000^4540 J ST SW CEDAR RAPIDS IA 52404-4924^^^001000^001^000^WC^IA^^^^^^2^^^N",
+        "accfl_recsincoll": 2
+    },
+    {
+        "accfl_recordseq": 24,
+        "accfl_recordtype": "SiteAddress",
+        "accfl_recorddet": "CEDAR RAPIDS^UNITED STATES^057~LINN^202211012022102600010000   000000000^IA^J ST SW^^^52404-4924^BUS^4540^41.933830^-91.666959",
+        "accfl_recsincoll": 0
+    },
+    {
+        "accfl_recordseq": 25,
+        "accfl_recordtype": "Coverages",
+        "accfl_recorddet": "0^^3^USD^2022/11/01^2023/11/01^202211012022102600010000   000000000^^^1^WC^WC^^WORK COMP^^^^0000^0000000000000^C^0000^000^000^14^52404^518300^0000",
+        "accfl_recsincoll": 0
+    },
+    {
+        "accfl_recordseq": 26,
+        "accfl_recordtype": "Coverages",
+        "accfl_recorddet": "0^^2^USD^2022/11/01^2023/11/01^202211012022102600010000   000000000^^0000500000^1^WC^WCEMP^^BODILY INJURY BY ACCIDENT- EACH ACCIDENT^^^^0000^0000000000000^C^0000^000^000^14^52404^518300^0000",
+        "accfl_recsincoll": 0
+    }
+]
